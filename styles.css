@@ -1,0 +1,7 @@
+.weapons {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    /* Customize further as needed */
+}
